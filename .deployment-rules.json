@@ -1,0 +1,21 @@
+{
+  "protected": {
+    "files": [
+      "components/metrics-chart.tsx",
+      "components/metrics/dual-metric-chart.tsx",
+      "components/metrics/metrics-charts.tsx",
+      "components/metrics/period-toggle.tsx",
+      "lib/chart-utils.ts",
+      "lib/chart-styles.ts",
+      "lib/store.ts",
+      "lib/metrics-categories.ts",
+      "lib/analyze-metrics.ts",
+      "lib/process-metrics.ts",
+      "components/metrics-dashboard.tsx",
+      "components/metrics/metrics-header.tsx"
+    ],
+    "directories": [
+      "components/ui"
+    ]
+  }
+}
